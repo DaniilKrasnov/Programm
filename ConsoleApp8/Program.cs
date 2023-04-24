@@ -33,25 +33,54 @@ namespace ConsoleApp8
             //}
             //Console.WriteLine("b="+b);
             //3
-            double a = 0;
-            Random r = new Random();
-            for(int i=1;i<=12;i++)
-            {
-                a = r.Next(-5,5);
-                Console.WriteLine(a);
-                if(a<0)
-                {
-                    Console.WriteLine($"{a}-отрицательное");
-                }
-                if(a>0)
-                {
-                    Console.WriteLine($"{a}-положительное");
-                }
-                else
-                {
-                    Console.WriteLine("Ошибка");
-                }
-            }
+            //double a = 0;
+            //Random r = new Random();
+            //for(int i=1;i<=12;i++)
+            //{
+            //    a =r.Next(-5, 5);
+            //    Console.WriteLine(a);
+            //    if(a<0)
+            //    {
+            //        Console.WriteLine($"{a}-отрицательное");
+            //    }
+            //    if(a>0)
+            //    {
+            //        Console.WriteLine($"{a}-положительное");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Ошибка");
+            //    }
+            //}
+            //4
+            //int a = 0;
+            //Random r = new Random();
+            //for(int i=1;i<=8;i++)
+            //{
+            //    a=r.Next(-30,30);
+            //    if(a>0)
+            //    {
+            //        if(a%2==0)
+            //        {
+            //            Console.WriteLine($"{a}-положительное,четное");
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine($"{a}-положительное,нечетное");
+            //        }
+            //    }
+            //    if(a<0)
+            //    {
+            //        if(a%2==0)
+            //        {
+            //            Console.WriteLine($"{a}-отрицательное,четное");
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine($"{a}-отрицательное,нечетное");
+            //        }
+            //    }
+            //}
             Console.ReadKey();
         }
     }
