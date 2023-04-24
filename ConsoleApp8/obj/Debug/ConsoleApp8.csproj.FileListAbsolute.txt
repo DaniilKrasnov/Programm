@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Hi-tech\Documents\GitHub\Programm\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
